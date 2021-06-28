@@ -1,0 +1,4 @@
+C:\Users\1\Desktop\WEB ASPX BASIC\Rumtab Sitesi\Rumtab Sitesi\obj\Debug\Rumtab Sitesi.vbproj.GenerateResource.cache
+C:\Users\1\Desktop\WEB ASPX BASIC\Rumtab Sitesi\Rumtab Sitesi\obj\Debug\Rumtab Sitesi.vbprojAssemblyReference.cache
+C:\Users\1\Desktop\WEB ASPX BASIC\Rumtab Sitesi\Rumtab Sitesi\obj\Debug\Rumtab_Sitesi.Resource1.resources
+C:\Users\1\Desktop\WEB ASPX BASIC\Rumtab Sitesi\Rumtab Sitesi\obj\Debug\Rumtab_Sitesi.Resource.resources
